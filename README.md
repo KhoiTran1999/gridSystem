@@ -1,2 +1,2 @@
 # gridSystem
-This is a Craf Grid System which can responsive using grid
+This is a Craft Grid System which can responsive using grid
