@@ -1,2 +1,2 @@
 # gridSystem
-This is a Craft Grid System which can responsive using grid
+This is a Craft Grid System which is like boostrap
